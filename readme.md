@@ -1,0 +1,2 @@
+- Schema => A schema is used to validate data we receive as well as to reformat the data that we want to send to the client/browser.
+- 
