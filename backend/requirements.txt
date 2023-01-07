@@ -17,3 +17,8 @@ python-dotenv
 
 #for email validation            #new
 pydantic[email] 
+
+
+
+#hashing           
+passlib[bcrypt] 
