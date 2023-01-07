@@ -1,0 +1,19 @@
+fastapi
+uvicorn
+
+#for template
+jinja2
+
+#for static files
+aiofiles
+
+#for database   
+sqlalchemy      # this is orm    
+psycopg2      # this is postgresql driver for python
+
+#for loading environment variables  
+python-dotenv
+
+
+#for email validation            #new
+pydantic[email] 
